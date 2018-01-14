@@ -1,0 +1,27 @@
+{
+  "name": "sensei-seito",
+  "version": "0.0.0",
+  "description": "Sensei's Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sprilget/senseiseito.git"
+  },
+  "author": "Micah Bell",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sprilget/senseiseito/issues"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "~4.16.2",
+    "jade": "~1.11.0",
+    "nib": "~1.1.2",
+    "pg": "^7.4.1",
+    "stylus": "^0.54.5",
+    "winston": "^2.4.0"
+  }
+}
